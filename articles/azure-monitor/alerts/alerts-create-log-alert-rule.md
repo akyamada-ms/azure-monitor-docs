@@ -34,6 +34,8 @@ Alerts triggered by these alert rules contain a payload that uses the [common al
 
 [!INCLUDE [alerts-wizard-scope](includes/alerts-wizard-scope.md)]
 
+You can optionally set a custom email subject for notifications. For more information, see [Customize log search alert email subjects](../alerts-customize-email-subject-how-to.md).
+
 ## Configure alert rule conditions
 
 1. On the **Condition** tab, when you select the **Signal name** field, select **Custom log search**. Or select **See all signals** if you want to choose a different signal for the condition.
